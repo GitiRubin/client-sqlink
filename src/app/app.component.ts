@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'excelProject';
+ file
+save(){
+console.log("in");
+console.log(this.file);
+
+}
+
 }
